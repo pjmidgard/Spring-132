@@ -366,7 +366,7 @@ class compression:
                                                                                         Check_equal=1
                                                                                         
                                                                                     if Zeroes[:5]=="11100":
-                                                                                        size_data4="11"
+                                                                                        size_data4="111"
                                                                                     else: 
                                                                                         
                                                                                         if Zeroes[2:4]!="00":
